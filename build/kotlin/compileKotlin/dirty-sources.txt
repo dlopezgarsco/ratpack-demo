@@ -1,0 +1,6 @@
+/Datos/dev/intellij/ratpack/src/main/kotlin/com/dlopez/ratpack/handlers/BarHandler.kt
+/Datos/dev/intellij/ratpack/src/main/kotlin/com/dlopez/ratpack/handlers/FooHandler.kt
+/Datos/dev/intellij/ratpack/src/main/kotlin/com/dlopez/ratpack/Main.kt
+/Datos/dev/intellij/ratpack/src/main/kotlin/com/dlopez/ratpack/handlers/CORSHandler.kt
+/Datos/dev/intellij/ratpack/src/main/kotlin/com/dlopez/ratpack/handlers/Router.kt
+/Datos/dev/intellij/ratpack/src/main/kotlin/com/dlopez/ratpack/handlers/DBHandler.kt
