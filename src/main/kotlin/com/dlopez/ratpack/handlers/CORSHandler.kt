@@ -11,5 +11,4 @@ class CORSHandler: Handler {
     }
     ctx.next()
   }
-
 }
